@@ -56,5 +56,5 @@ Add a link under each category with a short description and your name next to it
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
-* Kyle Kaplan: Python, self proclaimed DS9 wizard
+* Kyle Kaplan: Python 2.7, self proclaimed DS9 wizard
 
