@@ -45,6 +45,7 @@ cowsay "Hello"
 * [pycharm](https://www.jetbrains.com/pycharm/) -- An interactive development environment (IDE) for Python. (Kevin)
 * [rstudio](http://www.rstudio.com) -- An IDE for python with lots of build-in features. (Emma)
 * [Diffuse](http://diffuse.sourceforge.net/) -- Graphical Diff/Merge tool. Best installed using your OS's package manager, e.g. 'brew install diffuse'
+[IPython Notebook](http://ipython.org/notebook.html) -- Interactive computational environment where you can combine code execution, text, mathematics and plots.
 
 ## Data Analysis
 
@@ -63,7 +64,7 @@ cowsay "Hello"
 
 * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
 * [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
-* [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython'
+* [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython' (Jacob)
 
 ## Web
 
