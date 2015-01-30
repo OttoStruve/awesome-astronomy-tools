@@ -21,6 +21,7 @@ Add a link under each category with a short description and your name next to it
 * [z](https://github.com/rupa/z) -- A shell command to jump around directories. z learns your most used directories and lets you cd to them by only specifying a piece of the name, e.g. z sys will cd to ~/Projects/Systemic2 on my machine. (stefano)
 * [GNU Parallel](http://www.gnu.org/software/parallel/) -- Runs jobs in parallel using one or more computers from the command line. (stefano)
 * [Period04](https://www.univie.ac.at/tops/period04/) -- Fourier Transform software suite for Fourier analysis of astronomical data (full FTs). Ask me if you're interested in command line (batch file) capabilities and/or a Python wrapper. (Keaton)
+* [iTerm2](http://iterm2.com/) -- New and improved Terminal application for Mac OSX. (Jacob)
 
 ## Editors
 
