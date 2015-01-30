@@ -57,6 +57,7 @@ cowsay "Hello"
   
 ## Plotting
 
+* [Matplotlib Gallery](http://matplotlib.org/gallery.html) Matplotlib is the basis for all python plotting. Here's a gallery of plots for when you know what you want, but not how to make it. (Jacob)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
 *  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
 
