@@ -50,15 +50,12 @@ Add a link under each category with a short description and your name next to it
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
-<<<<<<< HEAD
 * [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
+* [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
 
 ## Simulation Packages
 
 * [Hyperion](http://www.hyperion-rt.org/) - Three dimentional Monte Carlo dust radiative transfer code, working in parallel. (yaolun)
-=======
-* [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
->>>>>>> a1091ec6c4226acd81ac7e71fec28949c067ff6d
 
 ## Git & GitHub
 =======
