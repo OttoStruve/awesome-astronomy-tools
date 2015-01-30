@@ -38,6 +38,7 @@ Add a link under each category with a short description and your name next to it
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
 * [gnuplot](http://www.gnuplot.info/) Quick and dirty plotting package. Tough to make publication quality plots, but makes decent plots fast (Kevin)
 *  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
+* [Coyote IDL Gallery](http://www.idlcoyote.com/gallery/) Examples of helpful IDL plotting routines from David Fanning, the IDL whisperer (Natalie)
 
 ## Programming
 
