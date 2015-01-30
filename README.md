@@ -26,7 +26,7 @@ Add a link under each category with a short description and your name next to it
 * [Emacs](http://www.emacsformacosx.com) -- The ultimate editor nirvana. (stefano)
 * [Sublime Text 2](http://www.sublimetext.com/2) -- A graphical editor with a lot of built-in features (Kevin)
 * [pycharm](https://www.jetbrains.com/pycharm/) -- An interactive development environment (IDE) for Python. (Kevin)
-* [rstudio](http://www.rstudio.com) -- An IDE for python with lots of build-in features. (Emma)
+* [rstudio](http://www.rstudio.com) -- An IDE for R with lots of build-in features. (Emma)
 
 ## Data Analysis
 
