@@ -31,7 +31,6 @@ Add a link under each category with a short description and your name next to it
 
 * [Data Science at the command line](http://datascienceatthecommandline.com/#tools) -- A useful list of commands that can help with working with data. (stefano)
 * [wxMaxima](http://andrejv.github.io/wxmaxima/index.html) -- A free alternative to Mathematica. (stefano)
-* [Pandas](http://pandas.pydata.org/) -- Super-powerful data analysis in python (Jacob)
   
 ## Plotting
 
@@ -39,6 +38,8 @@ Add a link under each category with a short description and your name next to it
 
 ## Programming
 
+* [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
+* [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
 
 ## Web
 
@@ -51,4 +52,5 @@ Add a link under each category with a short description and your name next to it
 ## Who's who at the department
 
 * Stefano: C, Java, JavaScript, & R zealot
+* Jeff Silverman: IRAF, IDL, PHP, MySQL
 
