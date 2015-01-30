@@ -62,7 +62,7 @@ Add a link under each category with a short description and your name next to it
 * [Git flow](https://github.com/nvie/gitflow) - A tool to structure branching.
 * [Git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion) - Autocomplete git commands/branches/files on the command line.
 
-## Who's who at the department
+## Who knows what at the department
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
