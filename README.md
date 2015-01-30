@@ -37,7 +37,7 @@ Add a link under each category with a short description and your name next to it
 * [wxMaxima](http://andrejv.github.io/wxmaxima/index.html) -- A free alternative to Mathematica. (stefano)
 * [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) -- An interactive data analysis and plotting tool. (Yi-Kuan)
 * [pandas](http://pandas.pydata.org/) -- A convenience layer on top of numpy arrays. Also great for database operations (Kevin)
-
+* [yt](http://yt-project.org/) -- yt is a python package for analyzing and visualizing volumetric, multi-resolution data from astrophysical simulations, radio telescopes, and a burgeoning interdisciplinary community. (aaron)
   
 ## Plotting
 
