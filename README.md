@@ -46,6 +46,7 @@ Add a link under each category with a short description and your name next to it
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
+* [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
 
 ## Git & GitHub
 
@@ -55,4 +56,5 @@ Add a link under each category with a short description and your name next to it
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
+* Kyle Kaplan: Python, self proclaimed DS9 wizard
 
