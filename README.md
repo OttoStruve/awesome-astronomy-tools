@@ -37,6 +37,7 @@ Add a link under each category with a short description and your name next to it
 
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
 *  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
+* [Coyote IDL Gallery](http://www.idlcoyote.com/gallery/) Examples of helpful IDL plotting routines from David Fanning, the IDL whisperer (Natalie)
 
 ## Programming
 
@@ -56,4 +57,4 @@ Add a link under each category with a short description and your name next to it
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
-
+* Jeremy Ritter: C/C++, Fortran, Unix, shell scripting, and many other computering topics
