@@ -37,6 +37,7 @@ Add a link under each category with a short description and your name next to it
 
 * [Matplotlib Gallery](http://matplotlib.org/gallery.html) Matplotlib is the basis for all python plotting. Here's a gallery of plots for when you know what you want, but not how to make it. (Jacob)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
+* [gnuplot](http://www.gnuplot.info/) Quick and dirty plotting package. Tough to make publication quality plots, but makes decent plots fast (Kevin)
 *  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
 * [Coyote IDL Gallery](http://www.idlcoyote.com/gallery/) Examples of helpful IDL plotting routines from David Fanning, the IDL whisperer (Natalie)
 
@@ -44,10 +45,13 @@ Add a link under each category with a short description and your name next to it
 
 * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
 * [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
+* [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
 
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
+* [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
+
 
 ## Git & GitHub
 
@@ -57,4 +61,4 @@ Add a link under each category with a short description and your name next to it
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
-
+* Jeremy Ritter: C/C++, Fortran, Unix, shell scripting, and many other computering topics
