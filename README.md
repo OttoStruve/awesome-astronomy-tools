@@ -58,6 +58,7 @@ Add a link under each category with a short description and your name next to it
 ## Simulation Packages
 
 * [Hyperion](http://www.hyperion-rt.org/) - Three dimentional Monte Carlo dust radiative transfer code, working in parallel. (yaolun)
+* [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
 
 ## Git & GitHub
 =======
