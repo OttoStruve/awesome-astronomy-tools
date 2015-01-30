@@ -23,6 +23,20 @@ Add a link under each category with a short description and your name next to it
 * [GNU Parallel](http://www.gnu.org/software/parallel/) -- Runs jobs in parallel using one or more computers from the command line. (stefano)
 * [Period04](https://www.univie.ac.at/tops/period04/) -- Fourier Transform software suite for Fourier analysis of astronomical data (full FTs). Ask me if you're interested in command line (batch file) capabilities and/or a Python wrapper. (Keaton)
 * [iTerm2](http://iterm2.com/) -- New and improved Terminal application for Mac OSX. (Jacob)
+* cowsay (brew install cowsay, port install cowsay, and even available as a Python package) -- Print out your error messages with cute ASCII animals (stefano)
+
+```
+cowsay "Hello"
+ _______ 
+< Hello >
+ ------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+                
 
 ## Editors
 
