@@ -91,3 +91,4 @@ cowsay "Hello"
 * Jeremy Ritter: C/C++, Fortran, Unix, shell scripting, and many other computering topics
 * Keaton Bell: IDL, IRAF, Python.
 * Yao-Lun Yang: Python, IDL, Hyperion, RADMC-3D
+* Jacob: IPython, IPython Notebooks, numpy/scipy/pandas, python internals/memory management.
