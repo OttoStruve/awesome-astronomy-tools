@@ -68,6 +68,7 @@ Add a link under each category with a short description and your name next to it
 
 ## Git and GitHub
 
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Really good instructions on how to use git. (Kyle)
 * [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
 
 ## Web
