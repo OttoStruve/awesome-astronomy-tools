@@ -34,6 +34,7 @@ Add a link under each category with a short description and your name next to it
 * [Data Science at the command line](http://datascienceatthecommandline.com/#tools) -- A useful list of commands that can help with working with data. (stefano)
 * [wxMaxima](http://andrejv.github.io/wxmaxima/index.html) -- A free alternative to Mathematica. (stefano)
 * [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) -- An interactive data analysis and plotting tool. (Yi-Kuan)
+* [pandas](http://pandas.pydata.org/) -- A convenience layer on top of numpy arrays. Also great for database operations (Kevin)
 
   
 ## Plotting
