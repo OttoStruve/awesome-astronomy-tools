@@ -35,6 +35,7 @@ Add a link under each category with a short description and your name next to it
   
 ## Plotting
 
+* [Matplotlib Gallery](http://matplotlib.org/gallery.html) Matplotlib is the basis for all python plotting. Here's a gallery of plots for when you know what you want, but not how to make it. (Jacob)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
 * [gnuplot](http://www.gnuplot.info/) Quick and dirty plotting package. Tough to make publication quality plots, but makes decent plots fast (Kevin)
 *  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
