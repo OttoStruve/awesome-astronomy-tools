@@ -55,6 +55,8 @@ Add a link under each category with a short description and your name next to it
 ## Git & GitHub
 
 * [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
+* [Git flow](https://github.com/nvie/gitflow) - A tool to structure branching.
+* [Git completion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion) - Autocomplete git commands/branches/files on the command line.
 
 ## Who's who at the department
 
