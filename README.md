@@ -12,6 +12,7 @@ Add a link under each category with a short description and your name next to it
 * [Programming](#programming)
 * [Git & GitHub](#git-github)
 * [Web](#web)
+* [Simulation](#simulation)
 * [Who knows what at the department](#who-knows-what-at-the-department)
 
 ----
@@ -53,6 +54,9 @@ Add a link under each category with a short description and your name next to it
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
 * [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
 
+## Simulation Packages
+
+* [Hyperion](http://www.hyperion-rt.org/) - Three dimentional Monte Carlo dust radiative transfer code, working in parallel. (yaolun)
 
 ## Git & GitHub
 
@@ -65,3 +69,4 @@ Add a link under each category with a short description and your name next to it
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
 * Jeremy Ritter: C/C++, Fortran, Unix, shell scripting, and many other computering topics
+* Yao-Lun Yang: Python, IDL, Sublime Text, Hyperion, RADMC-3D
