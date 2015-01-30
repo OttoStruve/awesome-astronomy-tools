@@ -56,4 +56,4 @@ Add a link under each category with a short description and your name next to it
 
 * Stefano: C, Java, JavaScript, & R zealot
 * Jeff Silverman: IRAF, IDL, PHP, MySQL
-
+* Jeremy Ritter: C/C++, Fortran, Unix, shell scripting, and many other computering topics
