@@ -40,6 +40,7 @@ Add a link under each category with a short description and your name next to it
 
 * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
 * [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
+* [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
 
 ## Web
 
