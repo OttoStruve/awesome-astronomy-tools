@@ -35,6 +35,7 @@ Add a link under each category with a short description and your name next to it
 ## Plotting
 
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
+* [gnuplot](http://www.gnuplot.info/) Quick and dirty plotting package. Tough to make publication quality plots, but makes decent plots fast (Kevin)
 
 ## Programming
 
