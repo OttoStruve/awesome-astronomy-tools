@@ -12,7 +12,7 @@ Add a link under each category with a short description and your name next to it
 * [Programming](#programming)
 * [Git & GitHub](#git-and-github)
 * [Web](#web)
-* [Simulation](#simulation)
+* [Simulation](#simulation-packages)
 * [Who knows what at the department](#who-knows-what-at-the-department)
 
 ----
