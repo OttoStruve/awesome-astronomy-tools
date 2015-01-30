@@ -44,6 +44,7 @@ cowsay "Hello"
 * [Sublime Text 2](http://www.sublimetext.com/2) -- A graphical editor with a lot of built-in features (Kevin)
 * [pycharm](https://www.jetbrains.com/pycharm/) -- An interactive development environment (IDE) for Python. (Kevin)
 * [rstudio](http://www.rstudio.com) -- An IDE for python with lots of build-in features. (Emma)
+* [Diffuse](http://diffuse.sourceforge.net/) -- Graphical Diff/Merge tool. Best installed using your OS's package manager, e.g. 'brew install diffuse'
 
 ## Data Analysis
 
