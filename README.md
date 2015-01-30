@@ -66,14 +66,14 @@ cowsay "Hello"
 * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
 * [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
 * [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython' (Jacob)
+* [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
+* [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
 
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
 * [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
 * [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
-* [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
-* [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
 
 ## Simulation Packages
 
