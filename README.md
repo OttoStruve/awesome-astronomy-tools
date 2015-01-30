@@ -47,6 +47,8 @@ Add a link under each category with a short description and your name next to it
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
+* [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
+
 
 ## Git & GitHub
 
