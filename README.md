@@ -12,7 +12,7 @@ Add a link under each category with a short description and your name next to it
 * [Programming](#programming)
 * [Git & GitHub](#git-and-github)
 * [Web](#web)
-* [Simulation](#simulation)
+* [Simulation](#simulation-packages)
 * [Who knows what at the department](#who-knows-what-at-the-department)
 
 ----
@@ -58,7 +58,8 @@ Add a link under each category with a short description and your name next to it
 ## Simulation Packages
 
 * [Hyperion](http://www.hyperion-rt.org/) - Three dimentional Monte Carlo dust radiative transfer code, working in parallel. (yaolun)
-* [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/) - Three dimantional Monte Carlo radiative transfer code, not working in parallel.  Can do both line and dust. (yaolun)
+* [Atomic Line List](http://www.pa.uky.edu/~peter/atomic/) - Database of atomic and ionic spectral lines by  Peter van Hoof (Kyle)
+
 ## Git & GitHub
 =======
 * [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
