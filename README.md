@@ -26,6 +26,7 @@ Add a link under each category with a short description and your name next to it
 * [Emacs](http://www.emacsformacosx.com) -- The ultimate editor nirvana. (stefano)
 * [Sublime Text 2](http://www.sublimetext.com/2) -- A graphical editor with a lot of built-in features (Kevin)
 * [pycharm](https://www.jetbrains.com/pycharm/) -- An interactive development environment (IDE) for Python. (Kevin)
+* [rstudio](http://www.rstudio.com) -- An IDE for R with lots of build-in features. (Emma)
 
 ## Data Analysis
 
@@ -36,9 +37,12 @@ Add a link under each category with a short description and your name next to it
 
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
 * [gnuplot](http://www.gnuplot.info/) Quick and dirty plotting package. Tough to make publication quality plots, but makes decent plots fast (Kevin)
+*  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
 
 ## Programming
 
+* [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
+* [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
 
 ## Web
 
@@ -51,4 +55,5 @@ Add a link under each category with a short description and your name next to it
 ## Who's who at the department
 
 * Stefano: C, Java, JavaScript, & R zealot
+* Jeff Silverman: IRAF, IDL, PHP, MySQL
 
