@@ -63,6 +63,7 @@ cowsay "Hello"
 
 * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/) - Some useful IDL procedures that are publicly available (jeff)
 * [Homegrown IDL Routines by John Johnson](http://astro.berkeley.edu/~johnjohn/idl.html) - Another page of useful IDL procedures (jeff)
+* [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython'
 
 ## Web
 
