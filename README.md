@@ -82,11 +82,6 @@ cowsay "Hello"
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Really good instructions on how to use git. (Kyle)
 * [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
 
-## Web
-
-* [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
-* [Wakari](https://wakari.io) - Host iPython notebooks on the Web. (stefano)
-
 ## Who knows what at the department
 
 * Stefano: C, Java, JavaScript, & R zealot
