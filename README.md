@@ -36,6 +36,7 @@ Add a link under each category with a short description and your name next to it
 ## Plotting
 
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) Python visualization library based on matplotlib for attractive graphics (gully)
+*  [D3.js](http://d3js.org) Awesome in browser figures! (gully)
 
 ## Programming
 
