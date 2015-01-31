@@ -68,6 +68,8 @@ cowsay "Hello"
 * [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython' (Jacob)
 * [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
 * [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
+* [Search PyPI for 'astronomy'.](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy&submit=search) (Sam)
+* [Python Cookbook](http://books.google.com/books?id=S_SJ2LaZH8EC). Then read "Learning Python" and "Programming Python". (Sam)
 
 ## Git and GitHub
 
@@ -94,3 +96,4 @@ cowsay "Hello"
 * Keaton Bell: IDL, IRAF, Python.
 * Yao-Lun Yang: Python, IDL, Hyperion, RADMC-3D
 * Jacob: IPython, IPython Notebooks, numpy/scipy/pandas, python internals/memory management.
+* Sam Harrold: Python, PyData tools.
