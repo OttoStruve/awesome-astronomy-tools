@@ -68,13 +68,15 @@ cowsay "Hello"
 * [IPython](http://ipython.org/) -- Interactive Python Terminal,  WAAAAAY better than the default. 'conda install ipython' (Jacob)
 * [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
 * [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
-* [Search PyPI for 'astronomy'.](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy&submit=search) (Sam)
+* [Search PyPI for 'astronomy'](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy&submit=search). (Sam)
 * [Python Cookbook](http://books.google.com/books?id=S_SJ2LaZH8EC). Then read "Learning Python" and "Programming Python". (Sam)
 
 ## Git and GitHub
 
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Really good instructions on how to use git. (Kyle)
 * [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
+* [A successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/). (Sam)
+* [GitHub Guides](https://guides.github.com/). (Sam)
 
 ## Web
 
@@ -98,4 +100,3 @@ cowsay "Hello"
 * Jacob: IPython, IPython Notebooks, numpy/scipy/pandas, python internals/memory management.
 * Aaron: C, Python, Cython, Julia, Mathematica.
 * Sam Harrold: Python, PyData tools.
-
