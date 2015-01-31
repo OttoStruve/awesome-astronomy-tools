@@ -96,4 +96,6 @@ cowsay "Hello"
 * Keaton Bell: IDL, IRAF, Python.
 * Yao-Lun Yang: Python, IDL, Hyperion, RADMC-3D
 * Jacob: IPython, IPython Notebooks, numpy/scipy/pandas, python internals/memory management.
+* Aaron: C, Python, Cython, Julia, Mathematica.
 * Sam Harrold: Python, PyData tools.
+
