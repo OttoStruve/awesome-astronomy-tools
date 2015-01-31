@@ -69,6 +69,11 @@ cowsay "Hello"
 * [Ureka Astronomy Software Package](http://ssb.stsci.edu/ureka/) - Finally a pain-free way to install IRAF, PyRAF, and much more (Keaton)
 * [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
 
+## Git and GitHub
+
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Really good instructions on how to use git. (Kyle)
+* [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
+
 ## Web
 
 * [Emscripten](https://github.com/kripken/emscripten) - Converts C/C++/Fortran code into JavaScript, so that the code can run hosted in the browser. (stefano)
@@ -79,11 +84,6 @@ cowsay "Hello"
 
 * [Hyperion](http://www.hyperion-rt.org/) - Three dimentional Monte Carlo dust radiative transfer code, working in parallel. (yaolun)
 * [RADMC-3D](http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/) - Three dimantional Monte Carlo radiative transfer code, not working in parallel.  Can do both line and dust. (yaolun)
-
-## Git and GitHub
-
-* [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Really good instructions on how to use git. (Kyle)
-* [Git prompt](https://gist.github.com/stefano-meschiari/ca163cd91c63492928fb) - Get the status and branch name of the git repository inside your prompt. (stefano)
 
 ## Who knows what at the department
 
