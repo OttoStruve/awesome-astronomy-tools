@@ -70,6 +70,7 @@ cowsay "Hello"
 * [Coyote IDL Library](http://www.idlcoyote.com/documents/programs.php#COYOTE_LIBRARY_DOWNLOAD) - IDL as it should work, especially with regard to plotting. Lots of capabilities (Natalie)
 * [Search PyPI for 'astronomy'](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy&submit=search). (Sam)
 * [Python Cookbook](http://books.google.com/books?id=S_SJ2LaZH8EC). Then read "Learning Python" and "Programming Python". (Sam)
+* [Wakari Gallery](https://wakari.io/gallery). Great collection of IPython Notebook tutorials that can be run on Conintuum's cloud platform. (Sam)
 
 ## Git and GitHub
 
