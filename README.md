@@ -19,6 +19,7 @@ Add a link under each category with a short description and your name next to it
 ## Tools
 
 * [ClipMenu](http://www.clipmenu.com) -- This tool maintains a history of your clipboard, so that you can paste old snippets of text, images, URLs, etc. (stefano)
+* [Hotkey Inserter](https://apps.microsoft.com/detail/9n7k2d2r0cqb?hl=en-US) -- Paid Windows utility for inserting named multiline text snippets with global hotkeys; replaces clipboard contents without restoring them. (saguiitay, app owner)
 * [z](https://github.com/rupa/z) -- A shell command to jump around directories. z learns your most used directories and lets you cd to them by only specifying a piece of the name, e.g. z sys will cd to ~/Projects/Systemic2 on my machine. (stefano)
 * [GNU Parallel](http://www.gnu.org/software/parallel/) -- Runs jobs in parallel using one or more computers from the command line. (stefano)
 * [Period04](https://www.univie.ac.at/tops/period04/) -- Fourier Transform software suite for Fourier analysis of astronomical data (full FTs). Ask me if you're interested in command line (batch file) capabilities and/or a Python wrapper. (Keaton)
@@ -50,6 +51,7 @@ cowsay "Hello"
 ## Data Analysis
 
 * [Data Science at the command line](http://datascienceatthecommandline.com/#tools) -- A useful list of commands that can help with working with data. (stefano)
+* [Data Format Workbench](https://apps.microsoft.com/detail/9nxzwn74wqn5?hl=en-US) -- Paid Windows utility for inspecting, filtering and converting structured and tabular data, including JSON and CSV. (saguiitay, app owner)
 * [wxMaxima](http://andrejv.github.io/wxmaxima/index.html) -- A free alternative to Mathematica. (stefano)
 * [TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) -- An interactive data analysis and plotting tool. (Yi-Kuan)
 * [pandas](http://pandas.pydata.org/) -- A convenience layer on top of numpy arrays. Also great for database operations (Kevin)
