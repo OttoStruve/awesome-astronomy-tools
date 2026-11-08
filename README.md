@@ -18,6 +18,7 @@ Add a link under each category with a short description and your name next to it
 ----
 ## Tools
 
+* [Calculation Hub AU Converter](https://calculation-hub.com/astronomy/astronomical-unit-converter) -- Convert astronomical units to kilometers or miles and reverse the conversion, with worked scale examples. (saguiitay)
 * [ClipMenu](http://www.clipmenu.com) -- This tool maintains a history of your clipboard, so that you can paste old snippets of text, images, URLs, etc. (stefano)
 * [z](https://github.com/rupa/z) -- A shell command to jump around directories. z learns your most used directories and lets you cd to them by only specifying a piece of the name, e.g. z sys will cd to ~/Projects/Systemic2 on my machine. (stefano)
 * [GNU Parallel](http://www.gnu.org/software/parallel/) -- Runs jobs in parallel using one or more computers from the command line. (stefano)
